@@ -17,4 +17,3 @@ export default function NavCircleButton(props) {
 NavCircleButton.defaultProps = {
   tag: 'a',
 }
-© 2020 GitHub, Inc.
